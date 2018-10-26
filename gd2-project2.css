@@ -1,0 +1,191 @@
+@keyframes rotate-thing {
+
+  from {
+    transform: rotateY(0deg) scale(1);
+  }
+
+  to {
+    transform: rotateY(360deg) scale(1.5)
+  }
+
+}
+
+
+h1{
+   color: #5a473b;
+   text-align: center;
+   font:400 65px/84px Abril Fatface;
+   font-size: 36pt;
+   letter-spacing: 2;
+   background-image: url(block.png);
+ 
+   background-position: center;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   max-width: 924px;
+  margin:0 auto;
+   margin-top: 50px;
+animation-name: rotate-thing;
+  animation-duration: 8s;
+  animation-fill-mode: both; /* optional */ 
+  animation-iteration-count: infinite; /* optional */ 
+  animation-direction: alternate; /* optional */
+   
+
+}
+
+
+
+
+
+.pin{width:4vw;
+	height:4vw;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	position: absolute;
+	transition: 300ms;}
+.pin-blue{
+      
+	background-image: url(pin1.png);
+	
+
+
+}
+.pin-yellow{
+      
+	background-image: url(pin2.png);
+	
+
+
+}
+
+.pin-blue:hover{
+	transform: scale(1.2);
+
+}
+.pin-yellow:hover{
+	transform: scale(1.2);
+
+}
+
+.pin-1 {
+	top:76%;
+	left:30%;
+}
+   .pin-2 {
+	top:41%;
+	left:62%;
+}
+   .pin-3 {
+	top:68%;
+	left:35%;
+}
+   .pin-4 {
+	top:10%;
+	left:32%;
+}
+   .pin-5 {
+	top:40%;
+	left:40%;
+}
+ .pin-6 {
+	top:45%;
+	left:37%;
+}
+  .pin-7 {
+	top:25%;
+	left:15%;
+}
+  .pin-8 {
+	top:39%;
+	left:55%;
+}
+  .pin-9 {
+	top:49%;
+	left:58%;
+}
+  .pin-10 {
+	top:55%;
+	left:49%;
+}
+.pin-11 {
+	top:23%;
+	left:60%;
+}
+
+.pin-12 {
+	top:26%;
+	left:57%;
+}
+
+
+
+.map{  
+
+	margin-top:30%;
+	margin-left:55%;
+	transform: translateY(-50%) translateX(-50%);
+	width: 82%;
+	background-image: url(map.png);
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	height:50vw;
+	position: relative;}
+
+
+.time-1{font:400 65px Abril Fatface;
+	font-size: 9pt;
+	display:block; 
+	position: absolute;
+	width:200px;
+	font-size: 9pt;
+	top:-20px;
+	left:20px;
+
+
+}
+
+.place-1
+{font:400 65px Abril Fatface;
+	font-size: 11pt;
+	display:block; 
+	position: absolute;
+	width:200px;
+	font-size: 9pt;
+	bottom:-20px;
+	left: 20px;
+
+}
+
+.rightline{
+text-align: right;
+}
+
+.rightline .time-1,.rightline .place-1{
+	right: 20px;
+	left:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
