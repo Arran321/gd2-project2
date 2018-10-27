@@ -1,3 +1,19 @@
+
+body{
+      background-image: url(dots.png);
+     background-repeat: repeat-y;
+     background-size: 110%;
+
+
+}
+
+
+
+
+
+
+
+
 @keyframes rotate-thing {
 
   from {
@@ -132,7 +148,18 @@ animation-name: rotate-thing;
 	background-repeat: no-repeat;
 	height:50vw;
 	position: relative;}
+.arrow-1{
+    
+    
+    transform: translateY(-50%) translateX(-50%);
+     margin-top: 39%;
+     margin-left: 12%;
+     height: 60%;
 
+
+
+
+}
 
 .time-1{font:400 65px Abril Fatface;
 	font-size: 9pt;
@@ -140,7 +167,7 @@ animation-name: rotate-thing;
 	position: absolute;
 	width:200px;
 	font-size: 9pt;
-	top:-20px;
+	top:-15px;
 	left:20px;
 
 
@@ -152,9 +179,21 @@ animation-name: rotate-thing;
 	display:block; 
 	position: absolute;
 	width:200px;
-	font-size: 9pt;
-	bottom:-20px;
+	
+	bottom:-15px;
 	left: 20px;
+
+}
+
+.place-2
+{font:400 65px Abril Fatface;
+	font-size: 13.5pt;
+	display:block; 
+	position: absolute;
+	width:200px;
+	
+	bottom:20px;
+	left: 45px;
 
 }
 
