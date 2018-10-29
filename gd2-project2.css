@@ -166,7 +166,7 @@ animation-name: rotate-thing;
 	display:block; 
 	position: absolute;
 	width:200px;
-	font-size: 9pt;
+	
 	top:-15px;
 	left:20px;
 
@@ -208,9 +208,102 @@ text-align: right;
 
 
 
+.line-one{
+    position:relative;
+    top: -5%;
+    left:25%;
+	transform: translateY(-50%) translateX(-50%);
+
+	background-image: url(nine.png);
+	background-size: 100%,100%;
+	background-position: top left, top 45%;
+	background-repeat: no-repeat;
+	width: 20vw;
+    height:50vw;
+
+
+}
+.picture-one{
+	
+	width: 40vw;
+	height: 30vw;
+	
+}
+.time-one{
+font:400 65px Abril Fatface;
+	font-size:1.5vw;
+	position: absolute;
+	top: 55%;
+	left: 0;
+	text-align: left;
+}
+
+.des-one{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 60%;
+	left: -1%;
+	text-align: left;
+	letter-spacing: 1;
+}
+img.arrow2{
+    position: relative;
+    top:15vw;
+    left:20VW;
+    width: 30%;
 
 
 
+
+}
+
+
+
+
+
+
+.line-one-right{
+    position:relative;
+    top: -10%;
+    right:-185%;
+	transform: translateY(-50%) translateX(-50%);
+
+	background-image: url(ten.png);
+	background-size: 100%;
+	background-position: top right;
+	background-repeat: no-repeat;
+	width: 20vw;
+    height:50vw;}
+
+
+ .time-two{
+font:400 65px Abril Fatface;
+	font-size:1.5vw;
+	position: absolute;
+	top: -1%;
+	left: 105%;
+	
+}
+
+.des-two{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 10%;
+	left: 105%;
+	
+	letter-spacing: 1;
+}   
+img.dashline1{
+    position: absolute;
+    left:20vw;
+    top:10vw;
+    width: 15vw;
+
+
+
+}
 
 
 
