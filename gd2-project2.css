@@ -251,11 +251,8 @@ img.arrow2{
     position: relative;
     top:15vw;
     left:20VW;
-    width: 30%;
-
-
-
-
+    width: 15vw;
+    height: 10vw;
 }
 
 
@@ -283,32 +280,323 @@ font:400 65px Abril Fatface;
 	position: absolute;
 	top: -1%;
 	left: 105%;
-	
+	width: 45vw;
 }
 
 .des-two{
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 10%;
+	top: 6%;
 	left: 105%;
-	
+	width: 45vw;
 	letter-spacing: 1;
 }   
 img.dashline1{
     position: absolute;
     left:20vw;
     top:10vw;
-    width: 15vw;
+    width: 13vw;
 
 
 
 }
+.time-three{
+font:400 65px Abril Fatface;
+	font-size:1.5vw;
+	position: absolute;
+	top: 55vw;
+	left: 48.5vw;
+    width: 45vw;
+	
+}
+
+.des-three{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 58vw;
+	left: 48.5vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+img.tenhalf{
+    position: absolute;
+    left:27vw;
+    top:35vw;
+    width: 43vw;
+}
+.time-four{
+font:400 65px Abril Fatface;
+	font-size:1.5vw;
+	position: absolute;
+	top: 77vw;
+	left: 1vw;
+    width: 45vw;
+	
+}
+
+.des-four{
+font:400 65px Abril Fatface;
+	font-size: 1.4vw;
+	position: absolute;
+	top: 80vw;
+	left: 1vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+.spe-des1{
+font:400 65px Abril Fatface;
+	font-size: 0.7vw;
+	position: absolute;
+	top: 83vw;
+	left: 1vw;
+	width: 25vw;
+	
+}   
+img.eleven{
+    position: absolute;
+    left:0.5vw;
+    top:45vw;
+    width: 48vw;
+}
+img.dashline2{
+    position: absolute;
+    left:20vw;
+    top:49.5vw;
+    width: 2vw;
+}
+.des-five{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 110vw;
+	left: 35vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+.time-five{
+font:400 65px Abril Fatface;
+	font-size:1.5vw;
+	position: absolute;
+	top: 107vw;
+	left: 35vw;
+    width: 45vw;
+	
+}
+img.twelve{
+    position: absolute;
+    left:26.5vw;
+    top:70vw;
+    width: 45vw;
+}
+img.burger{
+    position: absolute;
+    left:44.5vw;
+    top:65vw;
+    width: 9vw;
+}
+.time-six{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 122.5vw;
+	left: 46vw;
+    width: 45vw;
+	
+}
+.des-six{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 125.5vw;
+	left: 46vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+.time-seven{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 130.5vw;
+	left: 46vw;
+    width: 45vw;
+	
+}
+.des-seven{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 133vw;
+	left: 46vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+.des-seven2{
+font:400 65px Abril Fatface;
+	font-size:1.8vw;
+	position: absolute;
+	top: 136vw;
+	left: 46vw;
+    width: 45vw;
+	
+}
 
 
+img.thirteen{
+    position: absolute;
+    left:0.5vw;
+    top:120vw;
+    width: 48vw;
+}
+
+img.line{
+    position: absolute;
+    left:0.5vw;
+    top:105vw;
+    width: 25vw;
+}
+.time-eight{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 145vw;
+	left: 0.5vw;
+    width: 45vw;
+	
+}
+.des-eight{
+font:400 65px Abril Fatface;
+	font-size: 1.9vw;
+	position: absolute;
+	top: 150.5vw;
+	left: 0.5vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+.des-eight2{
+font:400 65px Abril Fatface;
+	font-size:1.8vw;
+	position: absolute;
+	top: 154vw;
+	left: 6.5vw;
+    width: 45vw;
+	
+}
+.des-eight3{
+font:400 65px Abril Fatface;
+	font-size:1.9vw;
+	position: absolute;
+	top: 159.5vw;
+	left: 0.5vw;
+    width: 45vw;
+	
+}
+.des-eight4{
+font:400 65px Abril Fatface;
+	font-size:1.8vw;
+	position: absolute;
+	top: 163vw;
+	left: 6.5vw;
+    width: 45vw;
+	
+}
 
 
+img.fourteen{
+    position: absolute;
+    left:25vw;
+    top:143vw;
+    width: 48vw;
+}
 
+.time-nine{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 225vw;
+	left: 0.5vw;
+    width: 45vw;
+	
+}
+.des-nine{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 228vw;
+	left: 0.5vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+img.fifteen{
+    position: absolute;
+    left:0.5vw;
+    top:183vw;
+    width: 30vw;
+}
+.time-ten{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 225vw;
+	left: 43vw;
+    width: 45vw;
+	
+}
+.des-ten{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 228vw;
+	left: 43vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+img.sixteen{
+    position: absolute;
+    left:10vw;
+    top:183vw;
+    width: 63vw;
+}
+img.clock{
+    position: absolute;
+    left:36vw;
+    top:233vw;
+    width: 6vw;
+}
+.time-11{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 277vw;
+	left: 0.5vw;
+    width: 45vw;
+	
+}
+.des-11{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 280vw;
+	left: 0.5vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+.spe-des2{
+font:400 65px Abril Fatface;
+	font-size: 0.7vw;
+	position: absolute;
+	top: 283vw;
+	left: 0.5vw;
+	width: 27vw;
+	
+}   
+img.seventeen{
+    position: absolute;
+    left:-2vw;
+    top:248vw;
+    width: 28vw;
+}
 
 
 
