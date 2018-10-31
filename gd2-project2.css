@@ -390,6 +390,11 @@ img.twelve{
     top:70vw;
     width: 45vw;
 }
+.twelve:hover{
+    transform: rotate(360deg);
+
+
+}
 img.burger{
     position: absolute;
     left:44.5vw;
@@ -597,6 +602,262 @@ img.seventeen{
     top:248vw;
     width: 28vw;
 }
+.time-12{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 308vw;
+	left: 29vw;
+    width: 45vw;
+	
+}
+.des-12{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 313vw;
+	left: 4vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+img.eighteen{
+    position: absolute;
+    left:27vw;
+    top:293vw;
+    width: 42vw;
+}
+img.card{
+    position: absolute;
+    left:6vw;
+    top:297vw;
+    width: 15vw;
+}
+
+.time-13{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 322.5vw;
+	left: 29vw;
+    width: 45vw;
+	
+}
+.des-13{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 327vw;
+	left: 29vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+img.nineteen{
+    position: absolute;
+    left:0vw;
+    top:323vw;
+    width: 27vw;
+}
+.time-14{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 344.5vw;
+	left: 29vw;
+    width: 45vw;
+	
+}
+.des-14{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 348vw;
+	left: 29vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+img.twenty{
+    position: absolute;
+    left:0vw;
+    top:345vw;
+    width: 27vw;
+}
+img.bowl{
+     position: absolute;
+    left:52vw;
+    top:337vw;
+    width: 15vw;
+
+}
+.time-15{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 399vw;
+	left: 42vw;
+    width: 45vw;
+	
+}
+.des-15{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 403vw;
+	left: 42vw;
+	width: 45vw;
+	letter-spacing: 1;
+}   
+img.twentyone{
+    position: absolute;
+    left:14vw;
+    top:369vw;
+    width: 50vw;
+}
+img.cross{
+    position: absolute;
+    left:0vw;
+    top:364vw;
+    width: 30vw;}
+.time-16{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 435vw;
+	left: 0vw;
+    width: 45vw;
+	
+}
+.des-16{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 439vw;
+	left: 0vw;
+	width: 45vw;
+	letter-spacing: 1;
+}  
+.time-17{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 435vw;
+	left: 22vw;
+    width: 45vw;
+	
+}
+.des-17{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 439vw;
+	left: 22vw;
+	width: 20vw;
+	letter-spacing: 1;
+}   
+.time-18{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 435vw;
+	left: 44.5vw;
+    width: 45vw;
+	
+}
+.des-18{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 439vw;
+	left: 44.5vw;
+	width: 45vw;
+	letter-spacing: 1;
+}    
+img.bear{
+    position: absolute;
+    left:0vw;
+    top:407.5vw;
+    width: 64vw;
+}
+.time-19{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 488vw;
+	left: 0vw;
+    width: 45vw;
+	
+}
+.des-19{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 491vw;
+	left: 0vw;
+	width: 45vw;
+	letter-spacing: 1;
+}    
+img.night1{
+    position: absolute;
+    left:0vw;
+    top:433.5vw;
+    width: 58vw;
+}
+.time-20{
+font:400 65px Abril Fatface;
+	font-size:1.6vw;
+	position: absolute;
+	top: 488vw;
+	left: 27vw;
+    width: 45vw;
+	
+}
+.des-20{
+font:400 65px Abril Fatface;
+	font-size: 1.8vw;
+	position: absolute;
+	top: 491vw;
+	left: 27vw;
+	width: 45vw;
+	letter-spacing: 1;
+}    
+.spe-des3{
+font:400 65px Abril Fatface;
+	font-size: 1vw;
+	position: absolute;
+	top: 454vw;
+	left: 53vw;
+	width: 16vw;
+	letter-spacing: 0.5;
+}    
+img.night2{
+    position: absolute;
+    left:27vw;
+    top:454.2vw;
+    width: 24.5vw;
+}
+
+img.firework{
+position: absolute;
+    left:-30vw;
+    top:464.2vw;
+    width: 105vw;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
