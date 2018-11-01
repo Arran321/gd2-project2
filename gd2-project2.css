@@ -1,10 +1,13 @@
 
 body{
-      background-image: url(dots.png);
-     background-repeat: repeat-y;
-     background-size: 110%;
+      background-image: url(dots2.png);
+     
+     
 
+}
 
+a {
+	color:inherit;
 }
 
 
@@ -568,6 +571,14 @@ img.clock{
     left:36vw;
     top:233vw;
     width: 6vw;
+}
+.video{
+    position: absolute;
+    left:53vw;
+    top:246vw;
+
+
+
 }
 .time-11{
 font:400 65px Abril Fatface;
