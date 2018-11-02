@@ -17,17 +17,7 @@ a {
 
 
 
-@keyframes rotate-thing {
 
-  from {
-    transform: rotateY(0deg) scale(1);
-  }
-
-  to {
-    transform: rotateY(360deg) scale(1.5)
-  }
-
-}
 
 
 h1{
@@ -44,12 +34,7 @@ h1{
    max-width: 924px;
   margin:0 auto;
    margin-top: 50px;
-animation-name: rotate-thing;
-  animation-duration: 8s;
-  animation-fill-mode: both; /* optional */ 
-  animation-iteration-count: infinite; /* optional */ 
-  animation-direction: alternate; /* optional */
-   
+
 
 }
 
@@ -233,10 +218,12 @@ text-align: right;
 	
 }
 .time-one{
-font:400 65px Abril Fatface;
-	font-size:1.5vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
-	top: 55%;
+	top: 58%;
 	left: 0;
 	text-align: left;
 }
@@ -245,7 +232,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 60%;
+	top: 65%;
 	left: -1%;
 	text-align: left;
 	letter-spacing: 1;
@@ -278,8 +265,10 @@ img.arrow2{
 
 
  .time-two{
-font:400 65px Abril Fatface;
-	font-size:1.5vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: -1%;
 	left: 105%;
@@ -305,10 +294,12 @@ img.dashline1{
 
 }
 .time-three{
-font:400 65px Abril Fatface;
-	font-size:1.5vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
-	top: 55vw;
+	top: 56vw;
 	left: 48.5vw;
     width: 45vw;
 	
@@ -318,7 +309,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 58vw;
+	top: 60vw;
 	left: 48.5vw;
 	width: 45vw;
 	letter-spacing: 1;
@@ -329,9 +320,60 @@ img.tenhalf{
     top:35vw;
     width: 43vw;
 }
+.bm-one{font-family: Zilla Slab;
+    font-weight: 600;
+    
+    font-size:1.0vw;
+	position: absolute;
+	top: 45vw;
+	left: 22vw;
+	width: 20vw;
+	letter-spacing: 0.1vw;
+	
+
+
+}
+
+ .mark{-webkit-animation: twinkling 1s infinite ease-in-out;
+}
+
+
+	
+}
+}
+.animated{
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both
+}
+@-webkit-keyframes twinkling{
+    0%{
+        opacity: 0;
+    }
+    90%
+    {opacity: 0;}
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes twinkling{
+    0%{
+        opacity: 0;
+    }
+    90%
+    {opacity: 0;}
+    100%{
+        opacity: 1;
+    }
+}
+
+
 .time-four{
-font:400 65px Abril Fatface;
-	font-size:1.5vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 77vw;
 	left: 1vw;
@@ -343,16 +385,16 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.4vw;
 	position: absolute;
-	top: 80vw;
+	top: 81vw;
 	left: 1vw;
 	width: 45vw;
-	letter-spacing: 1;
+	letter-spacing: 0.6;
 }   
 .spe-des1{
 font:400 65px Abril Fatface;
 	font-size: 0.7vw;
 	position: absolute;
-	top: 83vw;
+	top: 85vw;
 	left: 1vw;
 	width: 25vw;
 	
@@ -373,16 +415,18 @@ img.dashline2{
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 110vw;
+	top: 112vw;
 	left: 35vw;
 	width: 45vw;
 	letter-spacing: 1;
 }   
 .time-five{
-font:400 65px Abril Fatface;
-	font-size:1.5vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
-	top: 107vw;
+	top: 108vw;
 	left: 35vw;
     width: 45vw;
 	
@@ -404,9 +448,24 @@ img.burger{
     top:65vw;
     width: 9vw;
 }
+.bm-two{font-family: Zilla Slab;
+    font-weight: 600;
+    
+    font-size:1.0vw;
+	position: absolute;
+	top: 70vw;
+	left: 54vw;
+	width: 20vw;
+	letter-spacing: 0.1vw;
+	
+
+
+}
 .time-six{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 122.5vw;
 	left: 46vw;
@@ -417,14 +476,16 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 125.5vw;
+	top: 126.5vw;
 	left: 46vw;
 	width: 45vw;
 	letter-spacing: 1;
 }   
 .time-seven{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 130.5vw;
 	left: 46vw;
@@ -435,7 +496,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 133vw;
+	top: 134vw;
 	left: 46vw;
 	width: 45vw;
 	letter-spacing: 1;
@@ -444,7 +505,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size:1.8vw;
 	position: absolute;
-	top: 136vw;
+	top: 137vw;
 	left: 46vw;
     width: 45vw;
 	
@@ -464,9 +525,26 @@ img.line{
     top:105vw;
     width: 25vw;
 }
+.bm-three{font-family: Zilla Slab;
+    font-weight: 600;
+    
+    font-size:1.0vw;
+	position: absolute;
+	top: 113vw;
+	left: 1vw;
+	width: 20vw;
+	letter-spacing: 0.1vw;
+	display: inline-block;
+	transform: rotate(2.5deg);
+	
+
+
+}
 .time-eight{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 145vw;
 	left: 0.5vw;
@@ -519,8 +597,10 @@ img.fourteen{
 }
 
 .time-nine{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 225vw;
 	left: 0.5vw;
@@ -531,7 +611,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 228vw;
+	top: 229vw;
 	left: 0.5vw;
 	width: 45vw;
 	letter-spacing: 1;
@@ -543,8 +623,10 @@ img.fifteen{
     width: 30vw;
 }
 .time-ten{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 225vw;
 	left: 43vw;
@@ -555,7 +637,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 228vw;
+	top: 229vw;
 	left: 43vw;
 	width: 45vw;
 	letter-spacing: 1;
@@ -572,6 +654,18 @@ img.clock{
     top:233vw;
     width: 6vw;
 }
+.bm-four{font-family: Zilla Slab;
+    font-weight: 600;
+    
+    font-size:1.0vw;
+	position: absolute;
+	top: 239vw;
+	left: 30vw;
+	width: 20vw;
+	letter-spacing: 0.1vw;}
+	
+
+
 .video{
     position: absolute;
     left:53vw;
@@ -581,8 +675,10 @@ img.clock{
 
 }
 .time-11{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 277vw;
 	left: 0.5vw;
@@ -593,7 +689,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 280vw;
+	top: 281vw;
 	left: 0.5vw;
 	width: 45vw;
 	letter-spacing: 1;
@@ -602,7 +698,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 0.7vw;
 	position: absolute;
-	top: 283vw;
+	top: 285vw;
 	left: 0.5vw;
 	width: 27vw;
 	
@@ -614,8 +710,10 @@ img.seventeen{
     width: 28vw;
 }
 .time-12{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 308vw;
 	left: 29vw;
@@ -643,10 +741,21 @@ img.card{
     top:297vw;
     width: 15vw;
 }
+.bm-five{font-family: Zilla Slab;
+    font-weight: 600;
+    
+    font-size:1.0vw;
+	position: absolute;
+	top: 307vw;
+	left: 0vw;
+	width: 20vw;
+	letter-spacing: 0.1vw;}
 
 .time-13{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 322.5vw;
 	left: 29vw;
@@ -669,8 +778,10 @@ img.nineteen{
     width: 27vw;
 }
 .time-14{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 344.5vw;
 	left: 29vw;
@@ -699,11 +810,22 @@ img.bowl{
     width: 15vw;
 
 }
-.time-15{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+.bm-six{font-family: Zilla Slab;
+    font-weight: 600;
+    
+    font-size:1.0vw;
 	position: absolute;
-	top: 399vw;
+	top: 347vw;
+	left: 62vw;
+	width: 20vw;
+	letter-spacing: 0.1vw;}
+.time-15{
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
+	position: absolute;
+	top: 400vw;
 	left: 42vw;
     width: 45vw;
 	
@@ -712,7 +834,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 403vw;
+	top: 404vw;
 	left: 42vw;
 	width: 45vw;
 	letter-spacing: 1;
@@ -728,9 +850,20 @@ img.cross{
     left:0vw;
     top:364vw;
     width: 30vw;}
+    .bm-seven{font-family: Zilla Slab;
+    font-weight: 600;
+    
+    font-size:1.0vw;
+	position: absolute;
+	top: 393vw;
+	left: 0vw;
+	width: 20vw;
+	letter-spacing: 0.1vw;}
 .time-16{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 435vw;
 	left: 0vw;
@@ -747,8 +880,10 @@ font:400 65px Abril Fatface;
 	letter-spacing: 1;
 }  
 .time-17{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 435vw;
 	left: 22vw;
@@ -765,8 +900,10 @@ font:400 65px Abril Fatface;
 	letter-spacing: 1;
 }   
 .time-18{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
 	top: 435vw;
 	left: 44.5vw;
@@ -789,10 +926,12 @@ img.bear{
     width: 64vw;
 }
 .time-19{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
-	top: 488vw;
+	top: 489vw;
 	left: 0vw;
     width: 45vw;
 	
@@ -801,7 +940,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 491vw;
+	top: 493vw;
 	left: 0vw;
 	width: 45vw;
 	letter-spacing: 1;
@@ -813,10 +952,12 @@ img.night1{
     width: 58vw;
 }
 .time-20{
-font:400 65px Abril Fatface;
-	font-size:1.6vw;
+font-family: Zilla Slab;
+    font-weight: 800;
+    
+    font-size:1.8vw;
 	position: absolute;
-	top: 488vw;
+	top: 489vw;
 	left: 27vw;
     width: 45vw;
 	
@@ -825,7 +966,7 @@ font:400 65px Abril Fatface;
 font:400 65px Abril Fatface;
 	font-size: 1.8vw;
 	position: absolute;
-	top: 491vw;
+	top: 493vw;
 	left: 27vw;
 	width: 45vw;
 	letter-spacing: 1;
@@ -855,9 +996,35 @@ position: absolute;
 
 
 }
+.bm-eight{font-family: Zilla Slab;
+    font-weight: 600;
+    
+    font-size:1.0vw;
+	position: absolute;
+	top: 525vw;
+	left: 60vw;
+	width: 20vw;
+	letter-spacing: 0.1vw;}
 
 
-
+.final1{font-family: Zilla Slab;
+    font-weight: 600;
+    
+    font-size:1.6vw;
+	position: absolute;
+	top: 515vw;
+	left: 60vw;
+	width: 20vw;
+	letter-spacing: 0.1vw;}
+	.final2{font-family: Zilla Slab;
+    font-weight: 600;
+    
+    font-size:1.6vw;
+	position: absolute;
+	top: 520vw;
+	left: 60vw;
+	width: 20vw;
+	letter-spacing: 0.1vw;}
 
 
 
